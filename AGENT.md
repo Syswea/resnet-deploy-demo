@@ -104,16 +104,3 @@ resnet_cpu_deploy/
 
 
 ---
-
-### 6. 运行依赖版本
-
-```text
-torch>=1.12.0
-torchvision>=0.13.0
-onnx>=1.12.0
-onnxruntime>=1.14.0
-onnxsim>=0.4.0
-tvm>=0.10.0
-numpy>=1.21.0
-scipy>=1.7.0
-```
